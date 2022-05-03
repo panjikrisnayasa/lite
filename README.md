@@ -1,7 +1,7 @@
 # LITE
 LITE is a mobile app built using React Native and created as a digital marketplace for all your heavy-lifting, transportation. logistical, and manpower needs.
 
-This project consists of 3 mobile apps i.e. LITE SG, LITE Transporter, and LITE Driver. 
+This project was developed for Pollisum Engineering Pte Ltd and consists of 3 mobile apps i.e. LITE SG, LITE Transporter, and LITE Driver. 
 
 My responsibility in this project is doing bug fixes.
 
